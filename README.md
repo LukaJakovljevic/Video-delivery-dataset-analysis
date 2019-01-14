@@ -2,7 +2,7 @@
 
 ### Dataset Information
 
-This dataset is measuring the data downloaded through **P2P** (peer to peer) and through the **CDN** (Content Delivery Network) by the viewers. 
+This dataset `data.csv` is measuring the data downloaded through **P2P** (peer to peer) and through the **CDN** (Content Delivery Network) by the viewers. 
 
 
 ### Content
