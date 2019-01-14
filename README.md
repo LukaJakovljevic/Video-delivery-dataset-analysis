@@ -28,7 +28,8 @@ The goal of this notebook is to explore the dataset and give recommendations as 
 
 * **Python** (version 3.7.0) - because the dataset is not too large to require some Big Data framework;
 * **Jupyter notebook** (version 5.7.2) - because of the readability and explanation of the steps;
-* **Pandas library** (version 0.23.4) - for data manipulation, analysis and plotting.
+* **Pandas library** (version 0.23.4) - for data manipulation, analysis and plotting;
+* **Seaborn library** (version 0.9.0) - data visualization library based on matplotlib.
 
 
 ### Approach
