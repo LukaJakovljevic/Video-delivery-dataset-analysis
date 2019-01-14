@@ -1,4 +1,4 @@
-# Video delivery dataset analysis
+# Video delivery dataset analysis in Python using Jupyter notebook
 
 ### Dataset Information
 
